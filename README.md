@@ -10,3 +10,5 @@ If docker doesn't run check that port 5432 is available
 
 * Chapter 2: basic setup with postgres/h2 database
 * Chapter 3: Pooling / Basic HQL
+* Chapter 4: Entity mappings
+* Chapter 6: Embedded Entities, configure 2nd level caching
